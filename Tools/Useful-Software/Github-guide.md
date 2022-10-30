@@ -27,7 +27,7 @@ git push --force
 
 ## Forget to add something to the commit 
 Beware it will amend. No jokes.
-Primegen](https://www.youtube.com/c/ThePrimeagen)
+[Primegen](https://www.youtube.com/c/ThePrimeagen)
 ```bash
 git commit --amend --no-edit
 ```

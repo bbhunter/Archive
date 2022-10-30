@@ -4,7 +4,7 @@
 
 ```bash
 tar xvf $file.tar
-gzip -x $file.gz
+gzip -d $file.gz
 7z e $file.7z
 ```
 

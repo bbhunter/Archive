@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Distributions/Linux-System-Administration/Common-Linux-Administration-Alternatives.md",
+                "file": "Tools/Useful-Software/Github-guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Distributions/Linux-System-Administration/Common-Linux-Administration-Alternatives.md",
+                "file": "Tools/Useful-Software/Github-guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "0d8fba2f01874245",
   "lastOpenFiles": [
-    "Linux/Distributions/Debian/Debian-Package-Management.md",
+    "Linux/Linux-Commands/Linux-Compression-Commands.md",
     "Linux/Distributions/Linux-System-Administration/Common-Linux-Administration-Alternatives.md",
+    "Linux/Distributions/Debian/Debian-Package-Management.md",
     "Linux/Distributions/Linux-System-Administration/APT-And-Other-Non-Host-Distributions.md",
     "Tools/Shells/Powercat-Cheatsheet.md",
     "Exploitation/Windows/Active-Directory/AD-Certificate-Exploitation.md",
     "Tools/Mimikatz/Mimikatz-Cheatsheet.md",
     "Services/Databases/MYSQL/MySQL-Cheatsheet.md",
     "Services/Databases/MYSQL/MySQL-Hacking.md",
-    "Services/Databases/MSSQL/MSSQL-Hacking.md",
-    "Coding-Scripting-Programming/Languages/Python/Useful_Python.md"
+    "Services/Databases/MSSQL/MSSQL-Hacking.md"
   ]
 }
